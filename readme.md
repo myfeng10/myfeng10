@@ -86,7 +86,7 @@ Work on LLaMA / Gemma fine-tuning and prompt optimization:
 
 ## 🐍 Contribution Snake (looks cool!)
 
-![snake animation](https://raw.githubusercontent.com/myfeng10/myfeng10/output/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/myfeng10/myfeng10/output/github-contribution-grid-snake.svg)
 
 
 ---
