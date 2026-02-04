@@ -78,9 +78,9 @@ Work on LLaMA / Gemma fine-tuning and prompt optimization:
 ## 📈 GitHub Stats
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=myfeng10&show_icons=true&rank_icon=github&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myfeng10&layout=compact&theme=transparent)
->
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=myfeng10&show_icons=true&rank_icon=github&theme=tokyonight)
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=myfeng10&layout=compact&theme=tokyonight)
+
 
 ---
 
