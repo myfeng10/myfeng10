@@ -14,7 +14,7 @@ The ones that best explain the thread.
 
 📦 [identity-votes](https://github.com/myfeng10/identity-votes) - Turn ordinary self-talk into identity votes. Your agent tracks repeated behaviors while you talk, then returns the strongest pattern and one high-ROI next vote.
 
-⚡ [next-mode](https://github.com/myfeng10/next-mode) - Decide whether to push, switch, recover, or stop. Your agent reads sleep and timeline signals, then gives one calm recommendation instead of a productivity menu.
+⚡ [next-mode](https://github.com/myfeng10/next-mode) - Read the hidden effort spent while working with AI. Your agent translates sleep, timeline, context switching, and fatigue into one safe next mode: push, switch, recover, or stop.
 
 🧭 [living archive / personal site](https://www.myfeng10.com/) - A timeline-based archive for preserving projects, shifts, and realizations as life context, not just portfolio output.
 
