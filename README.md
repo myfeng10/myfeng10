@@ -16,6 +16,10 @@ The ones that best explain the thread.
 
 ⚡ [next-mode](https://github.com/myfeng10/next-mode) - Read the hidden effort spent while working with AI. Your agent translates sleep, timeline, context switching, and fatigue into one safe next mode: push, switch, recover, or stop.
 
+🎯 [one-shot-positioning](https://github.com/myfeng10/one-shot-positioning) - Turn messy work into a 10-second intro, proof stack, hard-part answer, and one sentence to memorize.
+
+🗣️ [smart-people-prep](https://github.com/myfeng10/smart-people-prep) - Prepare high-context conversations with one sharp intro, proof, a strong question, pushback practice, and follow-up.
+
 🧭 [living archive / personal site](https://www.myfeng10.com/) - A timeline-based archive for preserving projects, shifts, and realizations as life context, not just portfolio output.
 
 🧠 [Energy Translation System](https://github.com/myfeng10/interestingThings/tree/codex/skill-branding/www/components/energy-translator) - Turns sleep and daily activity timelines into a decision surface for cognitive capacity.
@@ -31,6 +35,7 @@ The ones that best explain the thread.
 ## 🧠 What I keep building
 
 - **Agentic self-management** - tools that help people decide what to do next when attention, energy, or identity feels blurry.
+- **Conversation and positioning systems** - skills that turn messy context into sharp language, proof, questions, and follow-up.
 - **Memory systems** - products and archives that preserve what changed, not only what happened.
 - **Human-centered AI** - chat, reflection, retrieval, and personalization systems that make people feel more understood.
 - **Interactive explanations** - visual and product surfaces that make complex systems easier to navigate.
@@ -52,6 +57,6 @@ They are older, but they still matter: the throughline was already there. Take s
 
 ## Currently
 
-I am turning my self-management and reflection systems into reusable agent skills.
+I am turning my self-management, reflection, positioning, and conversation systems into reusable agent skills.
 
 The direction is simple: less tracking overhead, more decisive support.
