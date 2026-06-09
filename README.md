@@ -12,11 +12,13 @@ For me, code is a way to turn half-formed observations about human behavior into
 
 The ones that best explain the thread.
 
-📦 [agentic self-management skills](https://github.com/myfeng10/interestingThings/tree/codex/skill-branding/skills) - Installable agent skills for energy decisions, identity votes, weekly trajectory review, and living archive entries. The key idea: an agent should notice useful patterns while the user is already talking, then return one high-ROI next move.
+📦 [identity-votes](https://github.com/myfeng10/identity-votes) - An installable agent skill that tracks identity votes while the user talks. The key idea: the agent should notice useful patterns during ordinary conversation, then return one high-ROI next vote.
+
+⚡ [next-mode](https://github.com/myfeng10/next-mode) - An installable agent skill that decides whether to push, switch modes, recover, or stop from sleep, timeline, meetings, and fatigue signals.
 
 🧭 [living archive / personal site](https://www.myfeng10.com/) - A timeline-based archive for preserving projects, shifts, and realizations as life context, not just portfolio output.
 
-⚡ [Energy Translation System](https://github.com/myfeng10/interestingThings/tree/codex/skill-branding/www/components/energy-translator) - Turns sleep and daily activity timelines into a decision: push, switch modes, recover, or stop.
+🧠 [Energy Translation System](https://github.com/myfeng10/interestingThings/tree/codex/skill-branding/www/components/energy-translator) - Turns sleep and daily activity timelines into a decision surface for cognitive capacity.
 
 🪞 [Identity Trajectory](https://github.com/myfeng10/interestingThings/tree/codex/skill-branding/www/components/identity-trajectory) - Reads repeated actions as identity votes so people can see what they are becoming before it hardens into a story.
 
