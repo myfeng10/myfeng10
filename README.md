@@ -12,9 +12,9 @@ For me, code is a way to turn half-formed observations about human behavior into
 
 The ones that best explain the thread.
 
-📦 [identity-votes](https://github.com/myfeng10/identity-votes) - An installable agent skill that tracks identity votes while the user talks. The key idea: the agent should notice useful patterns during ordinary conversation, then return one high-ROI next vote.
+📦 [identity-votes](https://github.com/myfeng10/identity-votes) - Turn ordinary self-talk into identity votes. Your agent tracks repeated behaviors while you talk, then returns the strongest pattern and one high-ROI next vote.
 
-⚡ [next-mode](https://github.com/myfeng10/next-mode) - An installable agent skill that decides whether to push, switch modes, recover, or stop from sleep, timeline, meetings, and fatigue signals.
+⚡ [next-mode](https://github.com/myfeng10/next-mode) - Decide whether to push, switch, recover, or stop. Your agent reads sleep and timeline signals, then gives one calm recommendation instead of a productivity menu.
 
 🧭 [living archive / personal site](https://www.myfeng10.com/) - A timeline-based archive for preserving projects, shifts, and realizations as life context, not just portfolio output.
 
