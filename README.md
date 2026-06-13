@@ -1,62 +1,106 @@
-# Hi, I'm Michelle 👋
+# Michelle Feng
+### AI-native builder working on context, memory, and agent skills
 
-I build AI products and interfaces that make invisible systems easier to act on: memory, energy, identity, attention, and graph structure.
+I build tools for the part of AI work that breaks after the demo: fragmented context, changing state, hidden effort, unclear positioning, and the gap between thinking and action.
 
-For me, code is a way to turn half-formed observations about human behavior into tools people can actually use.
+My current focus is simple:
+
+> Turn messy human context into memory, judgment, and reusable agent behavior.
 
 [Website](https://www.myfeng10.com/) · [LinkedIn](https://www.linkedin.com/in/michelle-yilin-feng/) · [Email](mailto:myfeng10d@gmail.com)
 
 ---
 
-## ⭐ Featured projects
+## Current Thesis
 
-The ones that best explain the thread.
+AI can generate more output than people can judge.
 
-📦 [identity-votes](https://github.com/myfeng10/identity-votes) - Turn ordinary self-talk into identity votes. Your agent tracks repeated behaviors while you talk, then returns the strongest pattern and one high-ROI next vote.
+So the bottleneck moves to:
 
-⚡ [next-mode](https://github.com/myfeng10/next-mode) - Read the hidden effort spent while working with AI. Your agent translates sleep, timeline, context switching, and fatigue into one safe next mode: push, switch, recover, or stop.
+- what context should be preserved
+- what changed since last time
+- what evidence supports the answer
+- what mode is safe next
+- what identity a repeated behavior is reinforcing
+- what one sentence makes the work understandable
 
-🎯 [one-shot-positioning](https://github.com/myfeng10/one-shot-positioning) - Turn messy work into a 10-second intro, proof stack, hard-part answer, and one sentence to memorize.
-
-🗣️ [smart-people-prep](https://github.com/myfeng10/smart-people-prep) - Prepare high-context conversations with one sharp intro, proof, a strong question, pushback practice, and follow-up.
-
-🧭 [living archive / personal site](https://www.myfeng10.com/) - A timeline-based archive for preserving projects, shifts, and realizations as life context, not just portfolio output.
-
-🧠 [Energy Translation System](https://github.com/myfeng10/interestingThings/tree/codex/skill-branding/www/components/energy-translator) - Turns sleep and daily activity timelines into a decision surface for cognitive capacity.
-
-🪞 [Identity Trajectory](https://github.com/myfeng10/interestingThings/tree/codex/skill-branding/www/components/identity-trajectory) - Reads repeated actions as identity votes so people can see what they are becoming before it hardens into a story.
-
-💬 EchoChat / AI social product work - Full-stack AI product work across chat, memory, retrieval, multimodel inference, and long-term user context.
-
-🧩 [Algorithm Visualization Archive](https://www.myfeng10.com/visualization) - Older algorithm and competitive programming work that shows the same instinct early: make dense systems understandable through interaction.
+I am interested in AI systems that do not only answer the current prompt, but help people carry context forward.
 
 ---
 
-## 🧠 What I keep building
+## Public Agent Skills
 
-- **Agentic self-management** - tools that help people decide what to do next when attention, energy, or identity feels blurry.
-- **Conversation and positioning systems** - skills that turn messy context into sharp language, proof, questions, and follow-up.
-- **Memory systems** - products and archives that preserve what changed, not only what happened.
-- **Human-centered AI** - chat, reflection, retrieval, and personalization systems that make people feel more understood.
-- **Interactive explanations** - visual and product surfaces that make complex systems easier to navigate.
+Small installable skills that turn personal systems into reusable agent behavior.
+
+| Skill | What it does |
+|---|---|
+| [identity-votes](https://github.com/myfeng10/identity-votes) | Turns ordinary self-talk into identity votes, pattern reads, and one high-ROI next action. |
+| [next-mode](https://github.com/myfeng10/next-mode) | Reads hidden effort from AI-assisted work and chooses the next safe mode: push, switch, recover, or stop. |
+| [one-shot-positioning](https://github.com/myfeng10/one-shot-positioning) | Turns messy work into a 10-second intro, proof stack, hard-part answer, and one sentence to memorize. |
+| [smart-people-prep](https://github.com/myfeng10/smart-people-prep) | Prepares high-context conversations with one sharp intro, proof, a strong question, pushback practice, and follow-up. |
+
+The thread: less tracking overhead, more decisive support.
 
 ---
 
-## 🌱 Older roots
+## Memory And Context Work
 
-Before the current AI and agent work, I built a lot of undergrad projects around algorithms, planning, data, and full-stack interfaces:
+I work on cross-platform AI memory: capturing real AI conversations and turning them into retrievable context with evidence.
+
+The interesting part is not storing more text. It is making AI able to answer:
+
+> What do we know, why do we know it, when was it true, and what should be reused now?
+
+Current product questions I care about:
+
+- How should AI preserve live context without over-compressing away taste?
+- When does a conversation become memory instead of just transcript?
+- How can human discussion become implementation context for another agent?
+- How should assistants behave when they can actually save, route, and reuse context?
+- How do privacy and trust change the design of memory products?
+
+---
+
+## Proof Points
+
+- Built public agent skills around identity, energy, positioning, and high-context conversation prep.
+- Built AI memory/product work across chat, retrieval, multimodel inference, long-term user context, and memory UX.
+- Worked on browser-to-backend memory flows for capturing AI conversations across tools and reusing them later.
+- Created evaluation-oriented memory notes around time, current state, changing truth, evidence, and retrieval quality.
+- Built a [living archive / personal site](https://www.myfeng10.com/) for preserving projects, shifts, and realizations as life context.
+- Built interactive systems for energy translation, identity trajectory, and algorithm visualization.
+
+---
+
+## How I Work
+
+1. Capture the raw context before it gets cleaned too early.
+2. Find the real frame behind the request.
+3. Turn the insight into a small artifact: skill, interface, note, test, or demo.
+4. Check whether it helps a future person act better.
+5. Preserve the useful part so the next agent or future self can continue.
+
+I like systems that are personal enough to be real, but structured enough that other people can use them.
+
+---
+
+## Older Roots
+
+Before the current AI and agent work, I built undergrad projects around algorithms, planning, data, and full-stack interfaces:
 
 - [CompetitiveProgramming](https://github.com/myfeng10/CompetitiveProgramming) - programming problem solutions and algorithm practice.
 - [PlannerX-www](https://github.com/myfeng10/PlannerX-www) - course-planning frontend for student academic planning.
 - [HighestTempPrediction](https://github.com/myfeng10/HighestTempPrediction) - weather-data aggregation and prediction.
 - SportPal - community sports event web app work.
 
-They are older, but they still matter: the throughline was already there. Take something hard to track, and make it legible enough for someone else to use.
+They are older, but they still matter. The throughline was already there: take something hard to track, and make it legible enough for someone else to use.
 
 ---
 
-## Currently
+## Direction
 
-I am turning my self-management, reflection, positioning, and conversation systems into reusable agent skills.
+I am building toward AI memory, context engineering, agent workflows, and human-centered tools for self-management and communication.
 
-The direction is simple: less tracking overhead, more decisive support.
+The long-term bet:
+
+> The best AI products will not just produce more output. They will help people preserve context, make better judgments, and act with clearer timing.
