@@ -61,29 +61,6 @@ Current product questions I care about:
 
 ---
 
-## Proof Points
-
-- Built public agent skills around identity, energy, positioning, and high-context conversation prep.
-- Built AI memory/product work across chat, retrieval, multimodel inference, long-term user context, and memory UX.
-- Worked on browser-to-backend memory flows for capturing AI conversations across tools and reusing them later.
-- Created evaluation-oriented memory notes around time, current state, changing truth, evidence, and retrieval quality.
-- Built a [living archive / personal site](https://www.myfeng10.com/) for preserving projects, shifts, and realizations as life context.
-- Built interactive systems for energy translation, identity trajectory, and algorithm visualization.
-
----
-
-## How I Work
-
-1. Capture the raw context before it gets cleaned too early.
-2. Find the real frame behind the request.
-3. Turn the insight into a small artifact: skill, interface, note, test, or demo.
-4. Check whether it helps a future person act better.
-5. Preserve the useful part so the next agent or future self can continue.
-
-I like systems that are personal enough to be real, but structured enough that other people can use them.
-
----
-
 ## Older Roots
 
 Before the current AI and agent work, I built undergrad projects around algorithms, planning, data, and full-stack interfaces:
