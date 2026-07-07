@@ -1,5 +1,14 @@
-# Michelle Feng
-### AI-native builder working on context, memory, and agent skills
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <img alt="Michelle Yilin Feng — I turn messy human context into memory, judgment, and reusable agent behavior" src="assets/banner-light.svg" width="100%">
+</picture>
+
+<p>
+  <a href="https://www.myfeng10.com/"><img src="https://img.shields.io/badge/web-myfeng10.com-0969da?style=flat-square&logo=safari&logoColor=white" alt="Website"></a>
+  <a href="https://www.linkedin.com/in/michelle-yilin-feng/"><img src="https://img.shields.io/badge/LinkedIn-michelle--yilin--feng-0a66c2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:myfeng10d@gmail.com"><img src="https://img.shields.io/badge/email-myfeng10d%40gmail.com-57606a?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://yeahecho.com"><img src="https://img.shields.io/badge/now-founding_engineer_@_Iditor-1a7f37?style=flat-square" alt="Now"></a>
+</p>
 
 I build tools for the part of AI work that breaks after the demo: fragmented context, changing state, hidden effort, unclear positioning, and the gap between thinking and action.
 
@@ -9,11 +18,9 @@ My current focus is simple:
 
 > Turn messy human context into memory, judgment, and reusable agent behavior.
 
-[Website](https://www.myfeng10.com/) · [LinkedIn](https://www.linkedin.com/in/michelle-yilin-feng/) · [Email](mailto:myfeng10d@gmail.com)
-
 ---
 
-## Current Thesis
+## 🧭 Current Thesis
 
 AI can generate more output than people can judge.
 
@@ -30,22 +37,22 @@ I am interested in AI systems that do not only answer the current prompt, but he
 
 ---
 
-## Public Agent Skills
+## 🛠️ Public Agent Skills
 
 Small installable skills that turn personal systems into reusable agent behavior.
 
 | Skill | What it does |
 |---|---|
-| [identity-votes](https://github.com/myfeng10/identity-votes) | Turns ordinary self-talk into identity votes, pattern reads, and one high-ROI next action. |
-| [next-mode](https://github.com/myfeng10/next-mode) | Reads hidden effort from AI-assisted work and chooses the next safe mode: push, switch, recover, or stop. |
-| [one-shot-positioning](https://github.com/myfeng10/one-shot-positioning) | Turns messy work into a 10-second intro, proof stack, hard-part answer, and one sentence to memorize. |
-| [smart-people-prep](https://github.com/myfeng10/smart-people-prep) | Prepares high-context conversations with one sharp intro, proof, a strong question, pushback practice, and follow-up. |
+| 🪞 [identity-votes](https://github.com/myfeng10/identity-votes) | Turns ordinary self-talk into identity votes, pattern reads, and one high-ROI next action. |
+| 🔋 [next-mode](https://github.com/myfeng10/next-mode) | Reads hidden effort from AI-assisted work and chooses the next safe mode: push, switch, recover, or stop. |
+| 🎯 [one-shot-positioning](https://github.com/myfeng10/one-shot-positioning) | Turns messy work into a 10-second intro, proof stack, hard-part answer, and one sentence to memorize. |
+| 🤝 [smart-people-prep](https://github.com/myfeng10/smart-people-prep) | Prepares high-context conversations with one sharp intro, proof, a strong question, pushback practice, and follow-up. |
 
 The thread: less tracking overhead, more decisive support.
 
 ---
 
-## Personal Operating Systems
+## ⚙️ Personal Operating Systems
 
 Some repos are public projects; some are private workspaces. I still treat them as part of my GitHub map because they capture how I work, what I am building toward, and what future agents should not miss.
 
@@ -58,9 +65,19 @@ The thread: turn messy personal context into systems that preserve judgment, red
 
 ---
 
-## Memory And Context Work
+## 🧠 Memory And Context Work
 
 I work on cross-platform AI memory: capturing real AI conversations and turning them into retrievable context with evidence.
+
+```mermaid
+flowchart LR
+    A["💬 messy conversations<br/>(ChatGPT · Claude · coding agents)"] --> B["capture"]
+    B --> C[("memory<br/>+ evidence")]
+    C --> D{"retrieve at<br/>the right time"}
+    D --> E["🤖 coding agents / MCP"]
+    D --> F["💭 next chat session"]
+    D --> G["🎬 content pipeline"]
+```
 
 The interesting part is not storing more text. It is making AI able to answer:
 
@@ -76,7 +93,7 @@ Current product questions I care about:
 
 ---
 
-## Research
+## 📄 Research
 
 Co-author on two papers from undergrad research at BU:
 
@@ -87,9 +104,9 @@ What research left me with: the habit of breaking a fuzzy problem down until it 
 
 ---
 
-## Older Roots
-
-Before the current AI and agent work, I built undergrad projects around algorithms, planning, data, and full-stack interfaces:
+<details>
+<summary><b>🌱 Older Roots</b> — undergrad projects (algorithms, planning, data, full-stack)</summary>
+<br>
 
 - [CompetitiveProgramming](https://github.com/myfeng10/CompetitiveProgramming) - programming problem solutions and algorithm practice.
 - [PlannerX-www](https://github.com/myfeng10/PlannerX-www) - course-planning frontend for student academic planning.
@@ -98,9 +115,11 @@ Before the current AI and agent work, I built undergrad projects around algorith
 
 They are older, but they still matter. The throughline was already there: take something hard to track, and make it legible enough for someone else to use.
 
+</details>
+
 ---
 
-## Direction
+## 🚀 Direction
 
 I am building toward AI memory, context engineering, agent workflows, and human-centered tools for self-management and communication.
 
