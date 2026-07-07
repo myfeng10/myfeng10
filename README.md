@@ -43,6 +43,18 @@ The thread: less tracking overhead, more decisive support.
 
 ---
 
+## Thinking To Content Workflows
+
+I also experiment with workflows that turn raw thinking into usable public output without forcing the person to over-script first.
+
+| Project | What it does |
+|---|---|
+| [thinking-video-pipeline](https://github.com/myfeng10/thinking-video-pipeline) | Local video-editing pipeline that turns raw thinking videos into transcripts, edit plans, rough cuts, marker-based edits, and burned-in captions. |
+
+The thread: capture the real thinking state first, then use AI and lightweight tools to make it legible.
+
+---
+
 ## Memory And Context Work
 
 I work on cross-platform AI memory: capturing real AI conversations and turning them into retrievable context with evidence.
