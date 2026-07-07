@@ -43,15 +43,16 @@ The thread: less tracking overhead, more decisive support.
 
 ---
 
-## Thinking To Content Workflows
+## Personal Operating Systems
 
-I also experiment with workflows that turn raw thinking into usable public output without forcing the person to over-script first.
+Some repos are public projects; some are private workspaces. I still treat them as part of my GitHub map because they capture how I work, what I am building toward, and what future agents should not miss.
 
 | Project | What it does |
 |---|---|
-| [thinking-video-pipeline](https://github.com/myfeng10/thinking-video-pipeline) | Local video-editing pipeline that turns raw thinking videos into transcripts, edit plans, rough cuts, marker-based edits, and burned-in captions. |
+| [thinking-video-pipeline](https://github.com/myfeng10/thinking-video-pipeline) | Local video-editing pipeline that turns raw thinking videos into transcripts, edit plans, rough cuts, marker-based edits, and burned-in captions. The point is to capture real thinking first, then use AI and lightweight tools to make it legible. |
+| [ResumeWorkspace](https://github.com/myfeng10/ResumeWorkspace) | Personal job-search operating system: source-of-truth profile, job tracking, role-specific resume variants, application materials, and agent instructions for turning raw career context into targeted positioning. |
 
-The thread: capture the real thinking state first, then use AI and lightweight tools to make it legible.
+The thread: turn messy personal context into systems that preserve judgment, reduce repeated effort, and make the next action easier.
 
 ---
 
