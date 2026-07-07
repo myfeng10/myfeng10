@@ -74,6 +74,18 @@ Current product questions I care about:
 
 ---
 
+## Research And AI Experiments
+
+Some repos are research or exploration artifacts rather than polished products. I keep the relevant ones visible because they show the technical surfaces I have touched.
+
+| Project | What it does |
+|---|---|
+| [imagenet3d_exp](https://github.com/myfeng10/imagenet3d_exp) | ImageNet3D experiment workspace around object-centric 3D awareness, linear probing, open-vocabulary pose estimation, and category-level pose estimation. |
+
+The thread: understand model behavior through concrete tasks, datasets, and evaluation setups instead of only high-level claims.
+
+---
+
 ## Older Roots
 
 Before the current AI and agent work, I built undergrad projects around algorithms, planning, data, and full-stack interfaces:
