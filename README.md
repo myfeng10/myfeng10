@@ -73,6 +73,8 @@ It includes the actual ICP rubric, outreach rubric, playbook, message library, r
 
 I freeze a user situation and acceptance criteria, run the old skill, revise the behavior contract, run the same situation again, and judge both outputs blindly. The READMEs show the current product; the [evaluation note](skills-evaluation.md) preserves the development evidence.
 
+→ [Inspect the complete 19-skill evaluation repository](https://github.com/myfeng10/personal-skill-evals)
+
 ---
 
 ## ⚙️ Personal Operating Systems
@@ -84,6 +86,7 @@ Some repos are public projects; some are private workspaces. I still treat them 
 | [memory-eval-results](https://github.com/myfeng10/memory-eval-results) | Benchmark runs, failure traces, and iteration evidence for memory retrieval and answer quality. |
 | [model-knowledge](https://github.com/myfeng10/model-knowledge) | Prompt-change evidence promoted into reusable model insights, failure modes, and validated rules. |
 | [thinking-video-pipeline](https://github.com/myfeng10/thinking-video-pipeline) | Raw thinking videos turned into transcripts, edit plans, rough cuts, marker edits, and burned-in captions. |
+| `personal-codex-skills` (private) | Source registry for all 19 evaluated skills, including local operating workflows that are not public products. |
 | ResumeWorkspace (private workspace) | Career evidence, job tracking, role-specific materials, and agent instructions kept in one operating system. |
 
 The thread: turn messy personal context into systems that preserve judgment, reduce repeated effort, and make the next action easier.

@@ -107,4 +107,4 @@ One additional EchoMem login run was intentionally excluded from the controlled 
 
 Every public skill README now includes the exact user case and current result. The [raw evaluation outputs](skill-examples/raw/) preserve selected recorded before/after evidence without making evaluation the product entry point.
 
-The full 19-skill runner bundle also preserves private and local-only skill paths. Its dedicated repository is being published separately so the public product story and the full evaluation evidence stay distinct.
+The public [`personal-skill-evals`](https://github.com/myfeng10/personal-skill-evals) repository contains all 20 before runs, 20 after runs, frozen cases, blind criterion-level judgments, summaries, and reproducible validation scripts. Private skill source remains separate from the public evidence.
