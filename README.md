@@ -10,80 +10,70 @@
   <a href="https://yeahecho.com"><img src="https://img.shields.io/badge/now-founding_engineer_@_Iditor-1a7f37?style=flat-square" alt="Now"></a>
 </p>
 
-<p>
-  <a href="skills-evaluation.md"><img src="https://img.shields.io/badge/personal_skills-19-8250df?style=flat-square" alt="19 personal skills"></a>
-  <a href="skills-evaluation.md"><img src="https://img.shields.io/badge/real_before%2Fafter_runs-20%20%2B%2020-0969da?style=flat-square" alt="20 before and 20 after runs"></a>
-  <a href="skills-evaluation.md"><img src="https://img.shields.io/badge/blind_score-190%2F190-1a7f37?style=flat-square" alt="190 out of 190 blind score"></a>
-  <a href="skills-evaluation.md"><img src="https://img.shields.io/badge/regressions-0-1a7f37?style=flat-square" alt="Zero regressions"></a>
-</p>
-
-I build tools for the part of AI work that breaks after the demo: fragmented context, changing state, hidden effort, unclear positioning, and the gap between thinking and action.
+I build tools for three moments that usually stay messy: carrying context forward, deciding what to do next, and explaining real work clearly.
 
 **Now:** Founding engineer at [Iditor](https://yeahecho.com) (EchoMemory) — cross-platform AI memory across iOS, web, Chrome extension, and MCP/agent workflows. BU Computer Science '25.
 
-My current focus is simple:
-
-> Turn messy human context into memory, judgment, and reusable agent behavior.
-
 ---
 
-## 🧭 Current Thesis
+## 🧭 Start with the moment you are in
 
-AI can generate more output than people can judge.
+These are not prompt collections. Each skill takes one recognizable situation and returns one bounded decision or artifact.
 
-So the bottleneck moves to:
+An agent skill is an installable behavior contract. Add it to a compatible agent with `npx skills add`, restart the agent, then invoke it in an ordinary message with `$skill-name`.
 
-- what context should be preserved
-- what changed since last time
-- what evidence supports the answer
-- what mode is safe next
-- what identity a repeated behavior is reinforcing
-- what one sentence makes the work understandable
+Every **see it work** link below opens a real user prompt, the old skill's actual response, the current skill's actual response, and the full recorded outputs.
 
-I am interested in AI systems that do not only answer the current prompt, but help people carry context forward.
+### Decide and reflect
 
----
+| If you are thinking… | Use | What comes back |
+|---|---|---|
+| “I have already spent a full day supervising AI. Is another deep-work block actually safe?” | [`next-mode`](https://github.com/myfeng10/next-mode) · [see it work](skill-examples/next-mode.md) | One mode—push, switch, recover, or stop—plus the exact next block. |
+| “Across these days or weeks, what identity did my repeated choices reinforce?” | [`identity-votes`](https://github.com/myfeng10/identity-votes) · [see it work](skill-examples/identity-votes.md) | An evidence-calibrated trajectory and one next vote. |
+| “What did today's ordinary choices vote for?” | [`identity-vote-translator`](https://github.com/myfeng10/agentic-self-management-skills/tree/main/skills/identity-vote-translator) · [see it work](skill-examples/identity-vote-translator.md) | A lightweight behavior read without turning one day into a personality label. |
+| “Given my sleep, meetings, food, and workload, what is one safe action now?” | [`energy-decision-support`](https://github.com/myfeng10/agentic-self-management-skills/tree/main/skills/energy-decision-support) · [see it work](skill-examples/energy-decision-support.md) | One capacity-based action and one bounded fallback. |
+| “What should I protect, try, and avoid next week?” | [`weekly-trajectory-review`](https://github.com/myfeng10/agentic-self-management-skills/tree/main/skills/weekly-trajectory-review) · [see it work](skill-examples/weekly-trajectory-review.md) | One weekly pattern and exactly three decisions. |
+| “How do I preserve why this project mattered for future me?” | [`living-archive-entry-builder`](https://github.com/myfeng10/agentic-self-management-skills/tree/main/skills/living-archive-entry-builder) · [see it work](skill-examples/living-archive-entry-builder.md) | A durable archive entry that preserves the event, change, and future-self lesson. |
 
-## 🛠️ Public Agent Skills
+### Explain and connect
 
-Small installable skills that turn recurring friction into reusable agent behavior. Each one has a bounded job and was run against a frozen scenario before and after revision.
+| If you are thinking… | Use | What comes back |
+|---|---|---|
+| “This project is real, but my explanation is a component list.” | [`one-shot-positioning`](https://github.com/myfeng10/one-shot-positioning) · [see it work](skill-examples/one-shot-positioning.md) | A 10-second explanation led by the hard problem, proof, and one line to remember. |
+| “I have 15 minutes with someone senior and tend to over-explain.” | [`smart-people-prep`](https://github.com/myfeng10/smart-people-prep) · [see it work](skill-examples/smart-people-prep.md) | One intro, one question, honest proof, pushback practice, and a follow-up bridge. |
+| “I need to contact this person for a real reason without sounding automated.” | [`write-high-signal-outreach`](https://github.com/myfeng10/write-high-signal-outreach) · [see it work](skill-examples/write-high-signal-outreach.md) | One evidence-backed argument, one contribution surface, and one answerable ask. |
 
-| Skill | One job | Before → after |
-|---|---|---:|
-| 🪞 [identity-votes](https://github.com/myfeng10/identity-votes) | Compare several days of behavior, name the identity trajectory without diagnosing the person, and choose one next vote. | 5 → **10** |
-| 🔋 [next-mode](https://github.com/myfeng10/next-mode) | Read hidden effort from AI-assisted work and choose one safe mode: push, switch, recover, or stop. | 9 → **10** |
-| 🎯 [one-shot-positioning](https://github.com/myfeng10/one-shot-positioning) | Lead with the post-demo failure, prove the hard part, and return one honest sentence to remember. | 9 → **10** |
-| 🤝 [smart-people-prep](https://github.com/myfeng10/smart-people-prep) | Prepare one intro, bounded proof, one useful question, pushback practice, and a conditional follow-up. | 10 → **10** |
-| ✉️ [write-high-signal-outreach](https://github.com/myfeng10/write-high-signal-outreach) | Build one evidence-backed outreach argument around one ownership loop and one answerable ask. | 9 → **10** |
+→ [Browse all nine worked examples](skill-examples/README.md)
 
-**Install one:** `npx skills add myfeng10/<repo>`
+Each worked example ends with its exact install command and a prompt you can copy. For example:
 
-→ [Read the full 19-skill evaluation](skills-evaluation.md)
-
----
-
-## 🧪 How I Build Skills
-
-I treat a skill as an executable behavior contract, not a prompt snippet.
-
-```mermaid
-flowchart LR
-    A["Recurring friction"] --> B["One bounded job"]
-    B --> C["Frozen scenario + rubric"]
-    C --> D["Before run"]
-    D --> E["Revise the skill"]
-    E --> F["Blind A/B judge"]
-    F --> G["Installable behavior"]
+```bash
+npx skills add myfeng10/next-mode
+npx skills add myfeng10/agentic-self-management-skills --skill identity-vote-translator
 ```
 
-The current system spans four layers:
+---
 
-| Layer | Skills |
-|---|---|
-| Memory continuity | `echomem-search` · `echomem-save` · `echomem-login` · `echomem-forget` |
-| Self-management and control | `driver-seat-mode` · `next-mode` · `energy-decision-support` · `identity-votes` · `identity-vote-translator` · `weekly-trajectory-review` · `living-archive-entry-builder` |
-| Evidence and decisions | `research` · `run-job-search` · `sohk-interviewer` · `strategic-relations` |
-| Communication | `draft-x-post` · `write-high-signal-outreach` · `one-shot-positioning` · `smart-people-prep` |
+## 🔎 One real project, end to end
+
+The [EchoMem Group outreach research pack](case-studies/echomem-outreach-research/README.md) shows what the outreach workflow looks like beyond one email:
+
+`public pain signal → lead score → why now → message rubric → discovery → 3–5 person pilot`
+
+It includes the actual ICP rubric, outreach rubric, playbook, message library, research notes, and lead tracker. The product idea is concrete: **share useful team context, not everyone's full AI conversation history.**
+
+---
+
+## 🧪 Evidence behind the examples
+
+<p>
+  <a href="skills-evaluation.md"><img src="https://img.shields.io/badge/personal_skills-19-8250df?style=flat-square" alt="19 personal skills"></a>
+  <a href="skills-evaluation.md"><img src="https://img.shields.io/badge/real_runs-20_before_%2B_20_after-0969da?style=flat-square" alt="20 before and 20 after runs"></a>
+  <a href="skills-evaluation.md"><img src="https://img.shields.io/badge/blind_score-175%2F190_%E2%86%92_190%2F190-1a7f37?style=flat-square" alt="Blind score improved from 175 out of 190 to 190 out of 190"></a>
+  <a href="skills-evaluation.md"><img src="https://img.shields.io/badge/regressions-0-1a7f37?style=flat-square" alt="Zero regressions"></a>
+</p>
+
+I freeze a user situation and acceptance criteria, run the old skill, revise the behavior contract, run the same situation again, and judge both outputs blindly. The examples above show the product; the [evaluation note](skills-evaluation.md) shows the evidence boundary.
 
 ---
 

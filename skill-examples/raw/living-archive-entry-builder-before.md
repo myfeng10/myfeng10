@@ -1,0 +1,1 @@
+Drafted the living-archive entry in [context-health-overlay.md](/Users/michelleyilinfeng/Desktop/Personal/Personal-Projects/Skills-and-Agents/evals/runs/before/living-archive-entry-builder/workspace/context-health-overlay.md). It preserves the project, the initial misdiagnosis, the UX insight, and the future-self reminder.
