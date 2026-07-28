@@ -22,30 +22,28 @@ These are not prompt collections. Each skill takes one recognizable situation an
 
 An agent skill is an installable behavior contract. Add it to a compatible agent with `npx skills add`, restart the agent, then invoke it in an ordinary message with `$skill-name`.
 
-Every **see it work** link below opens a real user prompt, the old skill's actual response, the current skill's actual response, and the full recorded outputs.
+Open any skill below to see its use case, actual current result, copyable prompt, and install command in one README.
 
 ### Decide and reflect
 
 | If you are thinking… | Use | What comes back |
 |---|---|---|
-| “I have already spent a full day supervising AI. Is another deep-work block actually safe?” | [`next-mode`](https://github.com/myfeng10/next-mode) · [see it work](skill-examples/next-mode.md) | One mode—push, switch, recover, or stop—plus the exact next block. |
-| “Across these days or weeks, what identity did my repeated choices reinforce?” | [`identity-votes`](https://github.com/myfeng10/identity-votes) · [see it work](skill-examples/identity-votes.md) | An evidence-calibrated trajectory and one next vote. |
-| “What did today's ordinary choices vote for?” | [`identity-vote-translator`](https://github.com/myfeng10/agentic-self-management-skills/tree/main/skills/identity-vote-translator) · [see it work](skill-examples/identity-vote-translator.md) | A lightweight behavior read without turning one day into a personality label. |
-| “Given my sleep, meetings, food, and workload, what is one safe action now?” | [`energy-decision-support`](https://github.com/myfeng10/agentic-self-management-skills/tree/main/skills/energy-decision-support) · [see it work](skill-examples/energy-decision-support.md) | One capacity-based action and one bounded fallback. |
-| “What should I protect, try, and avoid next week?” | [`weekly-trajectory-review`](https://github.com/myfeng10/agentic-self-management-skills/tree/main/skills/weekly-trajectory-review) · [see it work](skill-examples/weekly-trajectory-review.md) | One weekly pattern and exactly three decisions. |
-| “How do I preserve why this project mattered for future me?” | [`living-archive-entry-builder`](https://github.com/myfeng10/agentic-self-management-skills/tree/main/skills/living-archive-entry-builder) · [see it work](skill-examples/living-archive-entry-builder.md) | A durable archive entry that preserves the event, change, and future-self lesson. |
+| “I have already spent a full day supervising AI. Is another deep-work block actually safe?” | [`next-mode`](https://github.com/myfeng10/next-mode) | One mode—push, switch, recover, or stop—plus the exact next block. |
+| “Across these days or weeks, what identity did my repeated choices reinforce?” | [`identity-votes`](https://github.com/myfeng10/identity-votes) | An evidence-calibrated trajectory and one next vote. |
+| “What did today's ordinary choices vote for?” | [`identity-vote-translator`](https://github.com/myfeng10/agentic-self-management-skills#identity-vote-translator) | A lightweight behavior read without turning one day into a personality label. |
+| “Given my sleep, meetings, food, and workload, what is one safe action now?” | [`energy-decision-support`](https://github.com/myfeng10/agentic-self-management-skills#energy-decision-support) | One capacity-based action and one bounded fallback. |
+| “What should I protect, try, and avoid next week?” | [`weekly-trajectory-review`](https://github.com/myfeng10/agentic-self-management-skills#weekly-trajectory-review) | One weekly pattern and exactly three decisions. |
+| “How do I preserve why this project mattered for future me?” | [`living-archive-entry-builder`](https://github.com/myfeng10/agentic-self-management-skills#living-archive-entry-builder) | A durable archive entry that preserves the event, change, and future-self lesson. |
 
 ### Explain and connect
 
 | If you are thinking… | Use | What comes back |
 |---|---|---|
-| “This project is real, but my explanation is a component list.” | [`one-shot-positioning`](https://github.com/myfeng10/one-shot-positioning) · [see it work](skill-examples/one-shot-positioning.md) | A 10-second explanation led by the hard problem, proof, and one line to remember. |
-| “I have 15 minutes with someone senior and tend to over-explain.” | [`smart-people-prep`](https://github.com/myfeng10/smart-people-prep) · [see it work](skill-examples/smart-people-prep.md) | One intro, one question, honest proof, pushback practice, and a follow-up bridge. |
-| “I need to contact this person for a real reason without sounding automated.” | [`write-high-signal-outreach`](https://github.com/myfeng10/write-high-signal-outreach) · [see it work](skill-examples/write-high-signal-outreach.md) | One evidence-backed argument, one contribution surface, and one answerable ask. |
+| “This project is real, but my explanation is a component list.” | [`one-shot-positioning`](https://github.com/myfeng10/one-shot-positioning) | A 10-second explanation led by the hard problem, proof, and one line to remember. |
+| “I have 15 minutes with someone senior and tend to over-explain.” | [`smart-people-prep`](https://github.com/myfeng10/smart-people-prep) | One intro, one question, honest proof, pushback practice, and a follow-up bridge. |
+| “I need to contact this person for a real reason without sounding automated.” | [`write-high-signal-outreach`](https://github.com/myfeng10/write-high-signal-outreach) | One evidence-backed argument, one contribution surface, and one answerable ask. |
 
-→ [Browse all nine worked examples](skill-examples/README.md)
-
-Each worked example ends with its exact install command and a prompt you can copy. For example:
+Each skill README includes its exact install command and a prompt you can copy. For example:
 
 ```bash
 npx skills add myfeng10/next-mode
@@ -73,7 +71,7 @@ It includes the actual ICP rubric, outreach rubric, playbook, message library, r
   <a href="skills-evaluation.md"><img src="https://img.shields.io/badge/regressions-0-1a7f37?style=flat-square" alt="Zero regressions"></a>
 </p>
 
-I freeze a user situation and acceptance criteria, run the old skill, revise the behavior contract, run the same situation again, and judge both outputs blindly. The examples above show the product; the [evaluation note](skills-evaluation.md) shows the evidence boundary.
+I freeze a user situation and acceptance criteria, run the old skill, revise the behavior contract, run the same situation again, and judge both outputs blindly. The READMEs show the current product; the [evaluation note](skills-evaluation.md) preserves the development evidence.
 
 ---
 

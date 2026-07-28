@@ -52,10 +52,10 @@ These are single-run behavioral evaluations, not statistical benchmarks.
 | `run-job-search` | Local | 9 | **10** |
 | [`write-high-signal-outreach`](https://github.com/myfeng10/write-high-signal-outreach) | Public | 9 | **10** |
 | [`identity-votes`](https://github.com/myfeng10/identity-votes) | Public | 5 | **10** |
-| [`energy-decision-support`](https://github.com/myfeng10/agentic-self-management-skills/tree/main/skills/energy-decision-support) | Public | 10 | 10 |
-| [`identity-vote-translator`](https://github.com/myfeng10/agentic-self-management-skills/tree/main/skills/identity-vote-translator) | Public | 8 | **10** |
-| [`living-archive-entry-builder`](https://github.com/myfeng10/agentic-self-management-skills/tree/main/skills/living-archive-entry-builder) | Public | 10 | 10 |
-| [`weekly-trajectory-review`](https://github.com/myfeng10/agentic-self-management-skills/tree/main/skills/weekly-trajectory-review) | Public | 8 | **10** |
+| [`energy-decision-support`](https://github.com/myfeng10/agentic-self-management-skills#energy-decision-support) | Public | 10 | 10 |
+| [`identity-vote-translator`](https://github.com/myfeng10/agentic-self-management-skills#identity-vote-translator) | Public | 8 | **10** |
+| [`living-archive-entry-builder`](https://github.com/myfeng10/agentic-self-management-skills#living-archive-entry-builder) | Public | 10 | 10 |
+| [`weekly-trajectory-review`](https://github.com/myfeng10/agentic-self-management-skills#weekly-trajectory-review) | Public | 8 | **10** |
 | [`one-shot-positioning`](https://github.com/myfeng10/one-shot-positioning) | Public | 9 | **10** |
 | [`smart-people-prep`](https://github.com/myfeng10/smart-people-prep) | Public | 10 | 10 |
 | `sohk-interviewer` | Private workspace | 9 | **10** |
@@ -105,6 +105,6 @@ One additional EchoMem login run was intentionally excluded from the controlled 
 
 ## Evidence boundary
 
-For every public skill, the [worked-example index](skill-examples/README.md) publishes the exact user case, a readable before/after comparison, and links to the complete recorded responses.
+Every public skill README now includes the exact user case and current result. The [raw evaluation outputs](skill-examples/raw/) preserve selected recorded before/after evidence without making evaluation the product entry point.
 
 The full 19-skill runner bundle also preserves private and local-only skill paths. Its dedicated repository is being published separately so the public product story and the full evaluation evidence stay distinct.
