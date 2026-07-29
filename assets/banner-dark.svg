@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 230" role="img" aria-label="Michelle Yilin Feng — I turn messy human context into memory, judgment, and reusable agent behavior">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 230" role="img" aria-label="Michelle Yilin Feng — I turn messy context into evidence, judgment, and reusable agent behavior">
   <style>
     .name { font: 700 42px 'Segoe UI', Helvetica, Arial, sans-serif; fill: #e6edf3; }
     .sub  { font: 400 18px 'Segoe UI', Helvetica, Arial, sans-serif; fill: #9198a1; }
@@ -11,8 +11,8 @@
 
   <!-- left: identity -->
   <text x="40" y="92" class="name">Michelle Yilin Feng</text>
-  <text x="40" y="128" class="sub">AI-native builder — context &#183; memory &#183; agent skills</text>
-  <text x="40" y="170" class="tag">messy context &#8594; memory &#8594; judgment &#8594; reusable behavior</text>
+  <text x="40" y="128" class="sub">AI-native builder — memory &#183; agent skills &#183; product quality</text>
+  <text x="40" y="170" class="tag">messy context &#8594; evidence &#8594; judgment &#8594; reusable behavior</text>
 
   <!-- right: scattered context flowing into a memory graph -->
   <g>

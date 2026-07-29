@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img alt="Michelle Yilin Feng — I turn messy human context into memory, judgment, and reusable agent behavior" src="assets/banner-light.svg" width="100%">
+  <img alt="Michelle Yilin Feng — I turn messy context into evidence, judgment, and reusable agent behavior" src="assets/banner-light.svg" width="100%">
 </picture>
 
 <p>
@@ -10,7 +10,7 @@
   <a href="https://yeahecho.com"><img src="https://img.shields.io/badge/now-founding_engineer_@_Iditor-1a7f37?style=flat-square" alt="Now"></a>
 </p>
 
-I build tools for three moments that usually stay messy: carrying context forward, deciding what to do next, and explaining real work clearly.
+I build tools for moments that usually stay messy: carrying context forward, deciding what to do next, explaining real work clearly, and testing whether products keep their promises.
 
 **Now:** Founding engineer at [Iditor](https://yeahecho.com) (EchoMemory) — cross-platform AI memory across iOS, web, Chrome extension, and MCP/agent workflows. BU Computer Science '25.
 
@@ -22,7 +22,7 @@ These are not prompt collections. Each skill takes one recognizable situation an
 
 An agent skill is an installable behavior contract. Add it to a compatible agent with `npx skills add`, restart the agent, then invoke it in an ordinary message with `$skill-name`.
 
-Open any skill below to see its use case, actual current result, copyable prompt, and install command in one README.
+Open any personal skill below to see its use case, actual current result, copyable prompt, and install command in one README.
 
 ### Decide and reflect
 
@@ -52,6 +52,33 @@ npx skills add myfeng10/agentic-self-management-skills --skill identity-vote-tra
 
 ---
 
+## 🧪 Test whether the product keeps its promise
+
+These are a different kind of skill. Instead of turning personal context into
+one decision or message, they inspect a product and return an evidence pack a
+designer, engineer, or QA agent can act on.
+
+The [Product Quality Lab](https://github.com/myfeng10/product-quality-lab)
+connects two complementary lenses:
+
+| If you are asking… | Use | What comes back |
+|---|---|---|
+| “Where does this SaaS journey block first value, hide risk, or disagree with backend truth?” | [`saas-ux-audit`](https://github.com/myfeng10/saas-ux-audit) | Product truth, lifecycle coverage, prioritized findings, and observable acceptance tests. |
+| “How might users with different knowledge, urgency, or trust constraints interpret this onboarding?” | [`simulate-onboarding-users`](https://github.com/myfeng10/simulate-onboarding-users) | A blind behavioral walkthrough, expectation mismatches, evidence limits, and the next real-user task. |
+
+`repository + runtime + screenshots → product truth → user expectations → state mismatches → testable fix`
+
+Both READMEs show a concrete case and the current result. The simulation is
+explicitly hypothesis generation—not a substitute for interviews, usability
+tests, or product analytics.
+
+```bash
+npx skills add myfeng10/saas-ux-audit
+npx skills add myfeng10/simulate-onboarding-users
+```
+
+---
+
 ## 🔎 One real project, end to end
 
 The [EchoMem Group outreach research pack](case-studies/echomem-outreach-research/README.md) shows what the outreach workflow looks like beyond one email:
@@ -62,7 +89,7 @@ It includes the actual ICP rubric, outreach rubric, playbook, message library, r
 
 ---
 
-## 🧪 Evidence behind the examples
+## ✅ Evidence behind the personal skill set
 
 <p>
   <a href="skills-evaluation.md"><img src="https://img.shields.io/badge/personal_skills-19-8250df?style=flat-square" alt="19 personal skills"></a>
@@ -149,7 +176,7 @@ They are older, but they still matter. The throughline was already there: take s
 
 ## 🚀 Direction
 
-I am building toward AI memory, context engineering, agent workflows, and human-centered tools for self-management and communication.
+I am building toward AI memory, context engineering, agent workflows, product-quality systems, and human-centered tools for self-management and communication.
 
 The long-term bet:
 
