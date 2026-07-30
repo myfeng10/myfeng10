@@ -63,8 +63,8 @@ connects two complementary lenses:
 
 | If you are asking… | Use | What comes back |
 |---|---|---|
-| “Where does this SaaS journey block first value, hide risk, or disagree with backend truth?” | [`saas-ux-audit`](https://github.com/myfeng10/saas-ux-audit) | Product truth, lifecycle coverage, prioritized findings, and observable acceptance tests. |
-| “How might users with different knowledge, urgency, or trust constraints interpret this onboarding?” | [`simulate-onboarding-users`](https://github.com/myfeng10/simulate-onboarding-users) | A blind behavioral walkthrough, expectation mismatches, evidence limits, and the next real-user task. |
+| “Is my UI telling users something the product cannot actually support?” | [`is-my-ui-lying`](https://github.com/myfeng10/is-my-ui-lying) | Product truth, lifecycle coverage, prioritized findings, and observable acceptance tests. |
+| “What happens when impatient, skeptical, or confused users try this onboarding?” | [`roast-my-onboarding`](https://github.com/myfeng10/roast-my-onboarding) | A blind behavioral walkthrough, expectation mismatches, evidence limits, and the next real-user task. |
 
 `repository + runtime + screenshots → product truth → user expectations → state mismatches → testable fix`
 
@@ -73,8 +73,8 @@ explicitly hypothesis generation—not a substitute for interviews, usability
 tests, or product analytics.
 
 ```bash
-npx skills add myfeng10/saas-ux-audit
-npx skills add myfeng10/simulate-onboarding-users
+npx skills add myfeng10/is-my-ui-lying
+npx skills add myfeng10/roast-my-onboarding
 ```
 
 ---
